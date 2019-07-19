@@ -1,5 +1,5 @@
 # HDR
-<img src="https://github.com/WaitingZhan/HDR/blob/master/Original%20Image.png" width="400" height="500"> <img src="https://github.com/WaitingZhan/HDR/blob/master/HDR%20Image.png" width="400" height="500">
+<img src="https://github.com/WaitingZhan/HDR/blob/master/Original%20Image.png" width="400" height="300"> <img src="https://github.com/WaitingZhan/HDR/blob/master/HDR%20Image.png" width="450" height="300">
 
 OS: macOS Mojave version 10.14
 
